@@ -4,7 +4,7 @@ const chalk = require('chalk')
 module.exports = {
   SESSION_ID: '',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @SAJIL [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -20,19 +20,19 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '.$&+',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
+  BOT_NAME: 'SAHIL KING',
+  OWNER_NAME: 'SAHIL KING',
   OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  SUDO: '923202P34506',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h',
+  STICKER_AUTHOR: '✨🅽︎ᴏᴏʀ Uʟ 🅴︎ᴍᴀᴀɴ🦋',
+  STICKER_PACK: 'SAHI LKING 084',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
